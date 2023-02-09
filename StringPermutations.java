@@ -1,4 +1,4 @@
-
+//PERMUTATIONS FOR A GIVEN STRING
 public class StringPermutations {
     static void permutations(String p,String up)
     {
